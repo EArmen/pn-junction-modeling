@@ -2,6 +2,19 @@
 
 This repository contains open-source teaching materials for the paper *"Enhancing Student Understanding of p-n Junctions: A Problem-Based Learning Module with Python Modeling and Electrostatic Analogies"* (JOCSE, 2025) by Alfred V. Petrosyan and Armen S. Yepiskoposyan.
 
+# p–n Junction Modeling for Physics Education (PBL Module)
+
+This repository contains all Python code, Jupyter notebooks, and data
+used in the article:
+
+"Enhancing Student Understanding of p–n Junctions:
+A Problem-Based Learning Module with Python Modeling and Electrostatic Analogies"
+
+The materials support full reproducibility of the numerical results,
+figures, and empirical validation reported in the manuscript.
+
+
+
 ## Overview
 The module uses Problem-Based Learning (PBL) to teach p-n junctions to undergraduates, including non-STEM majors. It integrates:
 - **Electrostatic analogies** (parallel-plate capacitor).
