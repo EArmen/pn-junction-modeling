@@ -1,0 +1,20 @@
+
+All numerical results and figures in the manuscript can be reproduced
+using the provided scripts and notebooks.
+
+### Environment
+- Python ≥ 3.9
+- NumPy
+- SciPy
+- Matplotlib
+- Pint
+- Bokeh
+
+Install dependencies via:
+```bash
+pip install -r requirements.txt
+
+
+Run example:
+
+python poisson_solver.py
