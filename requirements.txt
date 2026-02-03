@@ -1,4 +1,5 @@
-numpy
-scipy
-matplotlib
-jupyter
+numpy>=1.23
+scipy>=1.9
+matplotlib>=3.6
+pint>=0.20
+bokeh>=3.0
