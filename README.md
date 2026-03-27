@@ -1,4 +1,4 @@
-# A Reproducible Python-Based Approach for Teaching the Equilibrium p–n Junction
+# A Reproducible Python-Based Approach for Teaching the Equilibrium p–n Junction through analytical and numerical modelling
 
 This repository contains the materials associated with the article:
 
