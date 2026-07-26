@@ -16,6 +16,20 @@ This project provides a classroom-ready framework for teaching the equilibrium p
 - Python-based simulations  
 
 ---
+# Reviewer-requested teaching extensions
+
+[![Open core notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EArmen/pn-junction-modeling/blob/main/notebooks/pn_junction_teaching_module.ipynb)
+
+- `notebooks/pn_junction_teaching_module.ipynb`: self-contained core activity.
+- `notebooks/poisson_boltzmann_advanced.ipynb`: executable equilibrium comparison.
+- `notebooks/domain_mesh_sensitivity.ipynb`: automated 1% convergence check.
+- `worksheets/`: parameter-driven and scaffolded routes.
+- `evaluation/`: optional pre/post framework.
+- `instructor_notes/`: asymmetric-domain guidance.
+
+The repository's existing files, including `src/poisson_solver.py`, need not be
+deleted or replaced. Copy these additions into the corresponding paths and add
+the badge above near the top of the existing README.
 
 ## Repository Structure
 
