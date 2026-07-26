@@ -27,10 +27,6 @@ This project provides a classroom-ready framework for teaching the equilibrium p
 - `evaluation/`: optional pre/post framework.
 - `instructor_notes/`: asymmetric-domain guidance.
 
-The repository's existing files, including `src/poisson_solver.py`, need not be
-deleted or replaced. Copy these additions into the corresponding paths and add
-the badge above near the top of the existing README.
-
 ## Repository Structure
 
 pn-junction-modeling/  
