@@ -29,8 +29,12 @@ This project provides a classroom-ready framework for teaching the equilibrium p
 ## Repository Structure
 
 pn-junction-modeling/  
+
 ├── generate_all_figures.py   # main script  
-├── README.md  
+├── README.md 
+├──evaluation/
+├──instructor_notes/
+├──worksheets/ 
 ├── requirements.txt  
 ├── .gitignore  
 ├── LICENSE  
